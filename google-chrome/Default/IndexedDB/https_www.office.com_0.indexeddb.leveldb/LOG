@@ -1,0 +1,8 @@
+2022/09/22-16:06:18.454 4522 Creating DB /home/woshyy/.config/google-chrome/Default/IndexedDB/https_www.office.com_0.indexeddb.leveldb since it was missing.
+2022/09/22-16:06:18.458 4522 Reusing MANIFEST /home/woshyy/.config/google-chrome/Default/IndexedDB/https_www.office.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/22-16:08:46.931 46d6 Level-0 table #5: started
+2022/09/22-16:08:46.954 46d6 Level-0 table #5: 2699216 bytes OK
+2022/09/22-16:08:46.956 46d6 Delete type=0 #3
+2022/09/22-16:10:06.083 46d5 Level-0 table #7: started
+2022/09/22-16:10:06.100 46d5 Level-0 table #7: 2910241 bytes OK
+2022/09/22-16:10:06.103 46d5 Delete type=0 #4

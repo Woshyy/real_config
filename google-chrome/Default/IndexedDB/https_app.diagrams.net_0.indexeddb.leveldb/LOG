@@ -1,0 +1,15 @@
+2022/09/23-15:47:00.815 26c6 Reusing MANIFEST /home/woshyy/.config/google-chrome/Default/IndexedDB/https_app.diagrams.net_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/23-15:47:00.815 26c6 Recovering log #4
+2022/09/23-15:47:00.816 26c6 Reusing old log /home/woshyy/.config/google-chrome/Default/IndexedDB/https_app.diagrams.net_0.indexeddb.leveldb/000004.log 
+2022/09/23-17:08:24.843 3530 Level-0 table #8: started
+2022/09/23-17:08:24.845 3530 Level-0 table #8: 47587 bytes OK
+2022/09/23-17:08:24.847 3530 Delete type=0 #4
+2022/09/23-17:08:24.847 3530 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/09/23-17:08:24.847 3530 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x1b\x00.\x00d\x00r\x00a\x00f\x00t\x00_\x00i\x00X\x00G\x00w\x00y\x00f\x00K\x00x\x00J\x00o\x00i\x00R\x00G\x00L\x00d\x00q\x00D\x00P\x00d\x00i' @ 169 : 1
+2022/09/23-17:08:24.847 3530 Compacting 1@1 + 1@2 files
+2022/09/23-17:08:24.849 3530 Generated table #9@1: 43 keys, 938 bytes
+2022/09/23-17:08:24.849 3530 Compacted 1@1 + 1@2 files => 938 bytes
+2022/09/23-17:08:24.850 3530 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/09/23-17:08:24.850 3530 Delete type=2 #8
+2022/09/23-17:08:24.850 3530 Delete type=2 #5
+2022/09/23-17:08:24.850 3530 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x1b\x00.\x00d\x00r\x00a\x00f\x00t\x00_\x00i\x00X\x00G\x00w\x00y\x00f\x00K\x00x\x00J\x00o\x00i\x00R\x00G\x00L\x00d\x00q\x00D\x00P\x00d\x00i' @ 169 : 1 .. (end); will stop at (end)

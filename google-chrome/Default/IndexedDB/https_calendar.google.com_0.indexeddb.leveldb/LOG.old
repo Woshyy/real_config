@@ -1,0 +1,15 @@
+2022/09/24-16:42:29.483 1524 Reusing MANIFEST /home/woshyy/.config/google-chrome/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/24-16:42:29.483 1524 Recovering log #7
+2022/09/24-16:42:29.483 1524 Reusing old log /home/woshyy/.config/google-chrome/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/000007.log 
+2022/09/24-16:43:01.495 1551 Level-0 table #12: started
+2022/09/24-16:43:01.497 1551 Level-0 table #12: 209 bytes OK
+2022/09/24-16:43:01.498 1551 Delete type=0 #7
+2022/09/24-16:43:01.498 1551 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/09/24-16:43:01.498 1551 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 159 : 1
+2022/09/24-16:43:01.498 1551 Compacting 1@1 + 1@2 files
+2022/09/24-16:43:01.500 1551 Generated table #13@1: 54 keys, 1015 bytes
+2022/09/24-16:43:01.500 1551 Compacted 1@1 + 1@2 files => 1015 bytes
+2022/09/24-16:43:01.502 1551 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/09/24-16:43:01.502 1551 Delete type=2 #12
+2022/09/24-16:43:01.502 1551 Delete type=2 #9
+2022/09/24-16:43:01.502 1551 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 159 : 1 .. (end); will stop at (end)

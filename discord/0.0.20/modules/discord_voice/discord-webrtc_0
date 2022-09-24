@@ -1,0 +1,807 @@
+ [bps], loss rate: 0 [%]
+[2022-09-24 19:46:13.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:13.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:13.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:13.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:13.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:13.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:13.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:13.552] [13819] (device_info_linux.cc:45): NumberOfDevices
+[2022-09-24 19:46:13.552] [13819] (device_info_linux.cc:45): NumberOfDevices
+[2022-09-24 19:46:13.552] [13819] (device_info_linux.cc:78): GetDeviceName
+[2022-09-24 19:46:14.267] [16195] (udp_socket.cpp:874): Sending ping to 66.22.239.9:50004, seq: 14
+[2022-09-24 19:46:14.406] [16195] (socket_client.cpp:263): Ping received from 66.22.239.9:50004, seq: 14, rtt: 139
+[2022-09-24 19:46:14.480] [13818] (connection.cpp:870): Received REMB for ssrcs: 357846: 6015 [bps]
+[2022-09-24 19:46:14.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357846: 12
+[2022-09-24 19:46:14.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357848: 0
+[2022-09-24 19:46:14.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:14.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:14.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:14.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:14.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:14.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:14.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:14.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:14.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:14.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:14.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:15.072] [16284] (frame_buffer2.cc:334): The video target delay has grown larger than 10000 ms.
+[2022-09-24 19:46:15.480] [13818] (connection.cpp:870): Received REMB for ssrcs: 357846: 6587 [bps]
+[2022-09-24 19:46:15.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357846: 12
+[2022-09-24 19:46:15.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357848: 0
+[2022-09-24 19:46:15.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:15.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:15.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:15.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:15.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:15.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:15.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:15.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:15.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:15.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:15.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:15.672] [16251] (quality_scaler.cc:316): Checking average QP 25 (25).
+[2022-09-24 19:46:16.480] [13818] (connection.cpp:870): Received REMB for ssrcs: 357846: 7205 [bps]
+[2022-09-24 19:46:16.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357846: 12
+[2022-09-24 19:46:16.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357848: 0
+[2022-09-24 19:46:16.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:16.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:16.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:16.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:16.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:16.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:16.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:16.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:16.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:16.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:16.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:16.554] [13819] (device_info_linux.cc:45): NumberOfDevices
+[2022-09-24 19:46:16.554] [13819] (device_info_linux.cc:45): NumberOfDevices
+[2022-09-24 19:46:16.554] [13819] (device_info_linux.cc:78): GetDeviceName
+[2022-09-24 19:46:17.480] [13818] (connection.cpp:870): Received REMB for ssrcs: 357846: 7872 [bps]
+[2022-09-24 19:46:17.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357846: 12
+[2022-09-24 19:46:17.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357848: 0
+[2022-09-24 19:46:17.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:17.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:17.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:17.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:17.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:17.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:17.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:17.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:17.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:17.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:17.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:17.526] [13797] (discord.cpp:543): JS console: ["%c[RTCControlSocket]","Sending heartbeat"]
+[2022-09-24 19:46:17.673] [16251] (quality_scaler.cc:316): Checking average QP 24 (24).
+[2022-09-24 19:46:17.675] [16197] (rtcp_sender.cc:471): Sender Report {ssrc: 357845, ntp: 3873030377:2899184529, rtp_timestamp: 3406849701, last_rtp_timestamp: 3292800, last_frame_capture_time_ms: 17061846, now_us: 17061861019, rtp_rate: 48}
+[2022-09-24 19:46:17.711] [16284] (frame_buffer2.cc:334): The video target delay has grown larger than 10000 ms.
+[2022-09-24 19:46:17.735] [13797] (discord.cpp:543): JS console: ["%c[RTCControlSocket]","Heartbeat ACK received"]
+[2022-09-24 19:46:18.097] [13818] (rtp_video_stream_receiver2.cc:664): Packet received on SSRC: 357851 with payload type: 101, timestamp: 1235770045, sequence number: 17171, arrival time: 17062283, toffset: 1260, abs send time: 9190320
+[2022-09-24 19:46:18.480] [13818] (connection.cpp:870): Received REMB for ssrcs: 357846: 8593 [bps]
+[2022-09-24 19:46:18.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357846: 12
+[2022-09-24 19:46:18.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357848: 0
+[2022-09-24 19:46:18.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:18.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:18.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:18.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:18.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:18.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:18.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:18.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:18.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:18.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:18.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:19.060] [13824] (audio_device_buffer.cc:411): [REC : 10010msec, 48kHz] callbacks: 1003, samples: 481440, rate: 48096, rate diff: 0%, level: 2370
+[2022-09-24 19:46:19.060] [13824] (audio_device_buffer.cc:437): [PLAY: 10010msec, 48kHz] callbacks: 1000, samples: 480000, rate: 47952, rate diff: 0%, level: 0
+[2022-09-24 19:46:19.173] [13826] (captured_audio_processor.cpp:82): Audio frames processed: 77898, noise canceller process time: 0 [ms]
+[2022-09-24 19:46:19.173] [13826] (captured_audio_processor.cpp:93): Audio frame: 77898, samples: 480, channels: 1, rate: 48000 [Hz], bytes: 2, level: 179
+[2022-09-24 19:46:19.267] [16195] (udp_socket.cpp:874): Sending ping to 66.22.239.9:50004, seq: 15
+[2022-09-24 19:46:19.406] [16195] (socket_client.cpp:263): Ping received from 66.22.239.9:50004, seq: 15, rtt: 139
+[2022-09-24 19:46:19.480] [13818] (connection.cpp:870): Received REMB for ssrcs: 357846: 9371 [bps]
+[2022-09-24 19:46:19.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357846: 12
+[2022-09-24 19:46:19.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357848: 0
+[2022-09-24 19:46:19.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:19.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:19.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:19.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:19.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:19.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:19.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:19.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:19.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:19.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:19.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:19.533] [13818] (rtp_video_stream_receiver2.cc:664): Packet received on SSRC: 354608 with payload type: 101, timestamp: 892150629, sequence number: 617, arrival time: 17063719, toffset: 630, abs send time: 9566771
+[2022-09-24 19:46:19.557] [13819] (device_info_linux.cc:45): NumberOfDevices
+[2022-09-24 19:46:19.557] [13819] (device_info_linux.cc:45): NumberOfDevices
+[2022-09-24 19:46:19.557] [13819] (device_info_linux.cc:78): GetDeviceName
+[2022-09-24 19:46:19.722] [13818] (rtp_video_stream_receiver2.cc:664): Packet received on SSRC: 355549 with payload type: 101, timestamp: 2194136716, sequence number: 49523, arrival time: 17063909, toffset: 6480, abs send time: 9616395
+[2022-09-24 19:46:19.738] [13818] (rtp_video_stream_receiver2.cc:664): Packet received on SSRC: 353261 with payload type: 101, timestamp: 729996893, sequence number: 24147, arrival time: 17063925, toffset: 47970, abs send time: 9620510
+[2022-09-24 19:46:19.741] [13818] (rtp_video_stream_receiver2.cc:664): Packet received on SSRC: 344908 with payload type: 101, timestamp: 3419671216, sequence number: 28929, arrival time: 17063927, toffset: 12060, abs send time: 9621267
+[2022-09-24 19:46:19.742] [13818] (rtp_video_stream_receiver2.cc:664): Packet received on SSRC: 354915 with payload type: 101, timestamp: 4085890441, sequence number: 41874, arrival time: 17063929, toffset: 810, abs send time: 9621623
+[2022-09-24 19:46:19.795] [13818] (rtp_video_stream_receiver2.cc:664): Packet received on SSRC: 350454 with payload type: 101, timestamp: 290587059, sequence number: 29605, arrival time: 17063981, toffset: 1890, abs send time: 9635366
+[2022-09-24 19:46:19.796] [13818] (rtp_video_stream_receiver2.cc:664): Packet received on SSRC: 349591 with payload type: 101, timestamp: 2487828519, sequence number: 13299, arrival time: 17063982, toffset: 100980, abs send time: 9635696
+[2022-09-24 19:46:19.822] [13818] (connection.cpp:615): Inbound stats for user: 410434857508929536, audio ssrc: 349590, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 349591, packets received: 605, lost: 0, video frames received (key/delta): 3/270, decoded: 270, dropped: 0, resolution: 384 x 216, freeze (count/duration): 3/1225, pause (count/duration): 0/0
+[2022-09-24 19:46:19.822] [13818] (connection.cpp:615): Inbound stats for user: 430739353296437258, audio ssrc: 344907, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 344908, packets received: 707, lost: 0, video frames received (key/delta): 12/548, decoded: 557, dropped: 0, resolution: 384 x 216, freeze (count/duration): 4/1167, pause (count/duration): 0/0
+[2022-09-24 19:46:19.822] [13818] (connection.cpp:615): Inbound stats for user: 486203483821834243, audio ssrc: 344143, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 344144, packets received: 789, lost: 1, video frames received (key/delta): 1/440, decoded: 439, dropped: 0, resolution: 640 x 480, freeze (count/duration): 1/581, pause (count/duration): 0/0
+[2022-09-24 19:46:19.822] [13818] (connection.cpp:615): Inbound stats for user: 695155586823749712, audio ssrc: 356894, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 356895, packets received: 634, lost: 0, video frames received (key/delta): 6/568, decoded: 570, dropped: 0, resolution: 384 x 216, freeze (count/duration): 5/1127, pause (count/duration): 0/0
+[2022-09-24 19:46:19.822] [13818] (connection.cpp:615): Inbound stats for user: 763007230848139285, audio ssrc: 355548, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 355549, packets received: 670, lost: 0, video frames received (key/delta): 1/596, decoded: 596, dropped: 0, resolution: 384 x 216, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2022-09-24 19:46:19.822] [13818] (connection.cpp:615): Inbound stats for user: 778337477643468840, audio ssrc: 354914, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 354915, packets received: 1018, lost: 0, video frames received (key/delta): 6/560, decoded: 565, dropped: 0, resolution: 384 x 216, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2022-09-24 19:46:19.822] [13818] (connection.cpp:615): Inbound stats for user: 880139914778386512, audio ssrc: 353260, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 353261, packets received: 644, lost: 1, video frames received (key/delta): 2/274, decoded: 267, dropped: 0, resolution: 384 x 216, freeze (count/duration): 2/567, pause (count/duration): 0/0
+[2022-09-24 19:46:19.822] [13818] (connection.cpp:615): Inbound stats for user: 965847920110874664, audio ssrc: 350453, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 350454, packets received: 455, lost: 0, video frames received (key/delta): 1/450, decoded: 451, dropped: 0, resolution: 384 x 216, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2022-09-24 19:46:19.822] [13818] (connection.cpp:615): Inbound stats for user: 1018076525951733820, audio ssrc: 357723, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 357724, packets received: 645, lost: 0, video frames received (key/delta): 1/372, decoded: 372, dropped: 0, resolution: 384 x 216, freeze (count/duration): 2/3186, pause (count/duration): 0/0
+[2022-09-24 19:46:19.823] [13818] (connection.cpp:615): Inbound stats for user: 1022174400415539302, audio ssrc: 354607, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 354608, packets received: 1789, lost: 0, video frames received (key/delta): 6/1002, decoded: 1007, dropped: 0, resolution: 384 x 216, freeze (count/duration): 1/338, pause (count/duration): 0/0
+[2022-09-24 19:46:19.823] [13818] (connection.cpp:615): Inbound stats for user: 569722776034869248, audio ssrc: 357850, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 357851, packets received: 981, lost: 0, video frames received (key/delta): 9/814, decoded: 822, dropped: 0, resolution: 384 x 216, freeze (count/duration): 5/1805, pause (count/duration): 0/0
+[2022-09-24 19:46:19.823] [13818] (connection.cpp:647): Outbound stats for user: 573157518239334420
+[2022-09-24 19:46:19.823] [13818] (connection.cpp:649):   Audio ssrc: 357845, packets sent: 9, packets lost: 0
+[2022-09-24 19:46:19.823] [13818] (connection.cpp:683):   Video codec: H264 (OpenH264), input frame rate: 20 [fps], frames encoded: 1167, encoded frame rate: 20 [fps], target rate: 146416 [bps], actual rate: 144688 [bps], cpu limited: 0, bw limited: 0, substream ssrc: 357846, frames sent (key/delta): 6/1161, packets sent: 1599, packets sent lost: 0, resolution: 384 x 216 
+[2022-09-24 19:46:19.823] [13818] (connection.cpp:683):   Video codec: H264 (unknown), input frame rate: 20 [fps], frames encoded: 0, encoded frame rate: 0 [fps], target rate: 0 [bps], actual rate: 0 [bps], cpu limited: 0, bw limited: 0, substream ssrc: 357848, frames sent (key/delta): 0/0, packets sent: 0, packets sent lost: 0, resolution: 0 x 0 
+[2022-09-24 19:46:19.823] [13818] (connection.cpp:701):   Camera frame count: 21069, dropped: 1618, slow: 0
+[2022-09-24 19:46:19.823] [13818] (connection.cpp:737): Transport stats for user: 573157518239334420, rtt: 139 [ms], available bitrate: 150000 [bps], outbound estimate: 150000 [bps], remb: 9371 [bps], inbound estimate: 9760000
+[2022-09-24 19:46:19.823] [13818] (connection.cpp:746): Receiver: 965847920110874664, bitrate: 103085 [bps], loss: 0 [%]
+[2022-09-24 19:46:19.823] [13818] (connection.cpp:746): Receiver: 430739353296437258, bitrate: 7417600 [bps], loss: 0 [%]
+[2022-09-24 19:46:19.823] [13818] (connection.cpp:746): Receiver: 778337477643468840, bitrate: 1327016 [bps], loss: 0 [%]
+[2022-09-24 19:46:19.823] [13818] (connection.cpp:746): Receiver: 486203483821834243, bitrate: 862752 [bps], loss: 0 [%]
+[2022-09-24 19:46:19.823] [13818] (connection.cpp:746): Receiver: 410434857508929536, bitrate: 6181312 [bps], loss: 0 [%]
+[2022-09-24 19:46:19.823] [13818] (connection.cpp:746): Receiver: 763007230848139285, bitrate: 4308064 [bps], loss: 0 [%]
+[2022-09-24 19:46:19.823] [13818] (connection.cpp:746): Receiver: 1022174400415539302, bitrate: 7417600 [bps], loss: 0 [%]
+[2022-09-24 19:46:19.823] [13818] (connection.cpp:746): Receiver: 880139914778386512, bitrate: 7808000 [bps], loss: 0 [%]
+[2022-09-24 19:46:19.823] [13818] (connection.cpp:746): Receiver: 695155586823749712, bitrate: 1684552 [bps], loss: 0 [%]
+[2022-09-24 19:46:19.823] [13818] (connection.cpp:746): Receiver: 765827783086702593, bitrate: 2456624 [bps], loss: 0 [%]
+[2022-09-24 19:46:19.823] [13818] (connection.cpp:746): Receiver: 1018076525951733820, bitrate: 1203472 [bps], loss: 0 [%]
+[2022-09-24 19:46:19.823] [13818] (connection.cpp:746): Receiver: 569722776034869248, bitrate: 7808000 [bps], loss: 0 [%]
+[2022-09-24 19:46:19.823] [13818] (connection.cpp:759): Memory usage: 517MB, CPU usage:N/A
+[2022-09-24 19:46:19.853] [13818] (rtp_video_stream_receiver2.cc:664): Packet received on SSRC: 344144 with payload type: 101, timestamp: 2847701505, sequence number: 1920, arrival time: 17064040, toffset: 1350, abs send time: 9650778
+[2022-09-24 19:46:19.923] [13818] (rtp_video_stream_receiver2.cc:664): Packet received on SSRC: 356895 with payload type: 101, timestamp: 1915175963, sequence number: 28804, arrival time: 17064109, toffset: 3060, abs send time: 9668854
+[2022-09-24 19:46:19.961] [13818] (rtp_video_stream_receiver2.cc:664): Packet received on SSRC: 357724 with payload type: 101, timestamp: 1765034078, sequence number: 13242, arrival time: 17064148, toffset: 13050, abs send time: 9679047
+[2022-09-24 19:46:20.242] [16284] (frame_buffer2.cc:334): The video target delay has grown larger than 10000 ms.
+[2022-09-24 19:46:20.261] [15054] (video_adapter.cc:230): VAdapt Drop Frame: scaled 13553 / out 21078 / in 22698 Changes: 4 Input: 1280x720 timestamp: 17064447000000 Output fps: 20/30 alignment: 1
+[2022-09-24 19:46:20.480] [13818] (connection.cpp:870): Received REMB for ssrcs: 357846: 10212 [bps]
+[2022-09-24 19:46:20.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357846: 12
+[2022-09-24 19:46:20.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357848: 0
+[2022-09-24 19:46:20.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:20.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:20.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:20.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:20.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:20.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:20.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:20.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:20.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:20.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:20.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:20.495] [16196] (bitrate_allocator.cc:394): Current BWE 150000
+[2022-09-24 19:46:20.620] [16196] (send_side_bandwidth_estimation.cc:621): Estimated available bandwidth 10212 bps is below configured min bitrate 150 kbps.
+[2022-09-24 19:46:21.127] [13797] (discord.cpp:543): JS console: ["%c[RunningGameStore]","games",""]
+[2022-09-24 19:46:21.480] [13818] (connection.cpp:870): Received REMB for ssrcs: 357846: 11119 [bps]
+[2022-09-24 19:46:21.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357846: 12
+[2022-09-24 19:46:21.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357848: 0
+[2022-09-24 19:46:21.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:21.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:21.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:21.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:21.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:21.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:21.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:21.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:21.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:21.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:21.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:21.674] [16251] (quality_scaler.cc:316): Checking average QP 26 (26).
+[2022-09-24 19:46:22.480] [13818] (connection.cpp:870): Received REMB for ssrcs: 357846: 12100 [bps]
+[2022-09-24 19:46:22.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357846: 12
+[2022-09-24 19:46:22.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357848: 0
+[2022-09-24 19:46:22.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:22.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:22.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:22.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:22.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:22.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:22.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:22.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:22.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:22.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:22.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:22.560] [13819] (device_info_linux.cc:45): NumberOfDevices
+[2022-09-24 19:46:22.560] [13819] (device_info_linux.cc:45): NumberOfDevices
+[2022-09-24 19:46:22.560] [13819] (device_info_linux.cc:78): GetDeviceName
+[2022-09-24 19:46:23.120] [16284] (frame_buffer2.cc:334): The video target delay has grown larger than 10000 ms.
+[2022-09-24 19:46:23.480] [13818] (connection.cpp:870): Received REMB for ssrcs: 357846: 13159 [bps]
+[2022-09-24 19:46:23.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357846: 12
+[2022-09-24 19:46:23.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357848: 0
+[2022-09-24 19:46:23.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:23.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:23.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:23.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:23.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:23.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:23.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:23.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:23.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:23.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:23.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:23.675] [16251] (quality_scaler.cc:316): Checking average QP 25 (25).
+[2022-09-24 19:46:24.025] [16277] (video_render_frames.cc:71): Frame scheduled out of order, render_time=17068031, latest=17068220
+[2022-09-24 19:46:24.267] [16195] (udp_socket.cpp:874): Sending ping to 66.22.239.9:50004, seq: 16
+[2022-09-24 19:46:24.406] [16195] (socket_client.cpp:263): Ping received from 66.22.239.9:50004, seq: 16, rtt: 138
+[2022-09-24 19:46:24.480] [13818] (connection.cpp:870): Received REMB for ssrcs: 357846: 14303 [bps]
+[2022-09-24 19:46:24.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357846: 12
+[2022-09-24 19:46:24.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357848: 0
+[2022-09-24 19:46:24.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:24.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:24.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:24.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:24.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:24.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:24.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:24.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:24.481] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:24.481] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:24.481] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:25.480] [13818] (connection.cpp:870): Received REMB for ssrcs: 357846: 15538 [bps]
+[2022-09-24 19:46:25.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357846: 12
+[2022-09-24 19:46:25.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357848: 0
+[2022-09-24 19:46:25.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:25.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:25.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:25.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:25.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:25.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:25.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:25.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:25.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:25.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:25.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:25.563] [13819] (device_info_linux.cc:45): NumberOfDevices
+[2022-09-24 19:46:25.564] [13819] (device_info_linux.cc:45): NumberOfDevices
+[2022-09-24 19:46:25.564] [13819] (device_info_linux.cc:78): GetDeviceName
+[2022-09-24 19:46:25.675] [16251] (quality_scaler.cc:316): Checking average QP 23 (23).
+[2022-09-24 19:46:25.855] [16284] (frame_buffer2.cc:334): The video target delay has grown larger than 10000 ms.
+[2022-09-24 19:46:26.084] [13818] (receive_statistics_proxy2.cc:550): Bad call (variance) end: 17070270
+[2022-09-24 19:46:26.128] [13797] (discord.cpp:543): JS console: ["%c[RunningGameStore]","games",""]
+[2022-09-24 19:46:26.480] [13818] (connection.cpp:870): Received REMB for ssrcs: 357846: 16872 [bps]
+[2022-09-24 19:46:26.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357846: 12
+[2022-09-24 19:46:26.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357848: 0
+[2022-09-24 19:46:26.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:26.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:26.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:26.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:26.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:26.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:26.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:26.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:26.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:26.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:26.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:26.495] [16196] (bitrate_allocator.cc:394): Current BWE 150000
+[2022-09-24 19:46:27.480] [13818] (connection.cpp:870): Received REMB for ssrcs: 357846: 18312 [bps]
+[2022-09-24 19:46:27.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357846: 12
+[2022-09-24 19:46:27.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357848: 0
+[2022-09-24 19:46:27.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:27.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:27.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:27.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:27.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:27.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:27.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:27.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:27.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:27.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:27.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:28.122] [13818] (rtp_video_stream_receiver2.cc:664): Packet received on SSRC: 357851 with payload type: 101, timestamp: 1236672835, sequence number: 17395, arrival time: 17072308, toffset: 810, abs send time: 11818232
+[2022-09-24 19:46:28.480] [13818] (connection.cpp:870): Received REMB for ssrcs: 357846: 19868 [bps]
+[2022-09-24 19:46:28.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357846: 12
+[2022-09-24 19:46:28.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357848: 0
+[2022-09-24 19:46:28.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:28.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:28.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:28.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:28.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:28.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:28.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:28.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:28.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:28.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:28.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:28.567] [13819] (device_info_linux.cc:45): NumberOfDevices
+[2022-09-24 19:46:28.567] [13819] (device_info_linux.cc:45): NumberOfDevices
+[2022-09-24 19:46:28.567] [13819] (device_info_linux.cc:78): GetDeviceName
+[2022-09-24 19:46:28.666] [16284] (frame_buffer2.cc:334): The video target delay has grown larger than 10000 ms.
+[2022-09-24 19:46:29.067] [13818] (receive_statistics_proxy2.cc:532): Bad call (any) end: 17073253
+[2022-09-24 19:46:29.067] [13818] (receive_statistics_proxy2.cc:550): Bad call (variance) end: 17073253
+[2022-09-24 19:46:29.070] [13824] (audio_device_buffer.cc:411): [REC : 10010msec, 48kHz] callbacks: 1001, samples: 480480, rate: 48000, rate diff: 0%, level: 3231
+[2022-09-24 19:46:29.070] [13824] (audio_device_buffer.cc:437): [PLAY: 10010msec, 48kHz] callbacks: 1001, samples: 480480, rate: 48000, rate diff: 0%, level: 0
+[2022-09-24 19:46:29.200] [13826] (captured_audio_processor.cpp:82): Audio frames processed: 78898, noise canceller process time: 0 [ms]
+[2022-09-24 19:46:29.200] [13826] (captured_audio_processor.cpp:93): Audio frame: 78898, samples: 480, channels: 1, rate: 48000 [Hz], bytes: 2, level: 498
+[2022-09-24 19:46:29.267] [16195] (udp_socket.cpp:874): Sending ping to 66.22.239.9:50004, seq: 17
+[2022-09-24 19:46:29.406] [16195] (socket_client.cpp:263): Ping received from 66.22.239.9:50004, seq: 17, rtt: 138
+[2022-09-24 19:46:29.480] [13818] (connection.cpp:870): Received REMB for ssrcs: 357846: 21549 [bps]
+[2022-09-24 19:46:29.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357846: 12
+[2022-09-24 19:46:29.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357848: 0
+[2022-09-24 19:46:29.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:29.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:29.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:29.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:29.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:29.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:29.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:29.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:29.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:29.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:29.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:29.552] [13818] (rtp_video_stream_receiver2.cc:664): Packet received on SSRC: 354608 with payload type: 101, timestamp: 893050629, sequence number: 899, arrival time: 17073739, toffset: 2160, abs send time: 12193286
+[2022-09-24 19:46:29.677] [16251] (quality_scaler.cc:316): Checking average QP 16 (16).
+[2022-09-24 19:46:29.727] [13818] (rtp_video_stream_receiver2.cc:664): Packet received on SSRC: 355549 with payload type: 101, timestamp: 3088870006, sequence number: 49737, arrival time: 17073914, toffset: 14490, abs send time: 12239170
+[2022-09-24 19:46:29.749] [13818] (rtp_video_stream_receiver2.cc:664): Packet received on SSRC: 354915 with payload type: 101, timestamp: 4086789181, sequence number: 42221, arrival time: 17073935, toffset: 2700, abs send time: 12244703
+[2022-09-24 19:46:29.767] [13818] (rtp_video_stream_receiver2.cc:664): Packet received on SSRC: 344908 with payload type: 101, timestamp: 3420575536, sequence number: 29155, arrival time: 17073953, toffset: 10080, abs send time: 12249534
+[2022-09-24 19:46:29.768] [13818] (rtp_video_stream_receiver2.cc:664): Packet received on SSRC: 353261 with payload type: 101, timestamp: 730901843, sequence number: 24404, arrival time: 17073955, toffset: 45810, abs send time: 12249936
+[2022-09-24 19:46:29.809] [13818] (rtp_video_stream_receiver2.cc:664): Packet received on SSRC: 350454 with payload type: 101, timestamp: 291488499, sequence number: 29755, arrival time: 17073995, toffset: 1890, abs send time: 12260386
+[2022-09-24 19:46:29.811] [13818] (rtp_video_stream_receiver2.cc:664): Packet received on SSRC: 349591 with payload type: 101, timestamp: 2488705749, sequence number: 13511, arrival time: 17073997, toffset: 125730, abs send time: 12260983
+[2022-09-24 19:46:29.890] [13818] (connection.cpp:615): Inbound stats for user: 410434857508929536, audio ssrc: 349590, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 349591, packets received: 817, lost: 0, video frames received (key/delta): 6/362, decoded: 365, dropped: 0, resolution: 384 x 216, freeze (count/duration): 3/1225, pause (count/duration): 0/0
+[2022-09-24 19:46:29.890] [13818] (connection.cpp:615): Inbound stats for user: 430739353296437258, audio ssrc: 344907, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 344908, packets received: 933, lost: 0, video frames received (key/delta): 12/749, decoded: 760, dropped: 0, resolution: 384 x 216, freeze (count/duration): 4/1167, pause (count/duration): 0/0
+[2022-09-24 19:46:29.890] [13818] (connection.cpp:615): Inbound stats for user: 486203483821834243, audio ssrc: 344143, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 344144, packets received: 1053, lost: 1, video frames received (key/delta): 1/591, decoded: 591, dropped: 0, resolution: 640 x 480, freeze (count/duration): 1/581, pause (count/duration): 0/0
+[2022-09-24 19:46:29.890] [13818] (connection.cpp:615): Inbound stats for user: 695155586823749712, audio ssrc: 356894, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 356895, packets received: 847, lost: 0, video frames received (key/delta): 8/769, decoded: 773, dropped: 0, resolution: 384 x 216, freeze (count/duration): 5/1127, pause (count/duration): 0/0
+[2022-09-24 19:46:29.891] [13818] (connection.cpp:615): Inbound stats for user: 763007230848139285, audio ssrc: 355548, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 355549, packets received: 886, lost: 0, video frames received (key/delta): 2/793, decoded: 792, dropped: 0, resolution: 384 x 216, freeze (count/duration): 1/244, pause (count/duration): 0/0
+[2022-09-24 19:46:29.891] [13818] (connection.cpp:615): Inbound stats for user: 778337477643468840, audio ssrc: 354914, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 354915, packets received: 1368, lost: 0, video frames received (key/delta): 6/758, decoded: 762, dropped: 0, resolution: 384 x 216, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2022-09-24 19:46:29.891] [13818] (connection.cpp:615): Inbound stats for user: 880139914778386512, audio ssrc: 353260, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 353261, packets received: 903, lost: 1, video frames received (key/delta): 2/430, decoded: 423, dropped: 0, resolution: 384 x 216, freeze (count/duration): 2/567, pause (count/duration): 0/0
+[2022-09-24 19:46:29.891] [13818] (connection.cpp:615): Inbound stats for user: 965847920110874664, audio ssrc: 350453, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 350454, packets received: 606, lost: 0, video frames received (key/delta): 1/601, decoded: 602, dropped: 0, resolution: 384 x 216, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2022-09-24 19:46:29.891] [13818] (connection.cpp:615): Inbound stats for user: 1018076525951733820, audio ssrc: 357723, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 357724, packets received: 827, lost: 0, video frames received (key/delta): 1/427, decoded: 427, dropped: 0, resolution: 384 x 216, freeze (count/duration): 2/3186, pause (count/duration): 0/0
+[2022-09-24 19:46:29.891] [13818] (connection.cpp:615): Inbound stats for user: 1022174400415539302, audio ssrc: 354607, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 354608, packets received: 2073, lost: 0, video frames received (key/delta): 6/1152, decoded: 1157, dropped: 0, resolution: 384 x 216, freeze (count/duration): 1/338, pause (count/duration): 0/0
+[2022-09-24 19:46:29.891] [13818] (connection.cpp:615): Inbound stats for user: 569722776034869248, audio ssrc: 357850, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 357851, packets received: 1209, lost: 0, video frames received (key/delta): 9/1015, decoded: 1024, dropped: 0, resolution: 384 x 216, freeze (count/duration): 5/1805, pause (count/duration): 0/0
+[2022-09-24 19:46:29.892] [13818] (connection.cpp:647): Outbound stats for user: 573157518239334420
+[2022-09-24 19:46:29.892] [13818] (connection.cpp:649):   Audio ssrc: 357845, packets sent: 9, packets lost: 0
+[2022-09-24 19:46:29.892] [13818] (connection.cpp:683):   Video codec: H264 (OpenH264), input frame rate: 20 [fps], frames encoded: 1369, encoded frame rate: 20 [fps], target rate: 146416 [bps], actual rate: 153272 [bps], cpu limited: 0, bw limited: 0, substream ssrc: 357846, frames sent (key/delta): 6/1363, packets sent: 1815, packets sent lost: 0, resolution: 384 x 216 
+[2022-09-24 19:46:29.892] [13818] (connection.cpp:683):   Video codec: H264 (unknown), input frame rate: 20 [fps], frames encoded: 0, encoded frame rate: 0 [fps], target rate: 0 [bps], actual rate: 0 [bps], cpu limited: 0, bw limited: 0, substream ssrc: 357848, frames sent (key/delta): 0/0, packets sent: 0, packets sent lost: 0, resolution: 0 x 0 
+[2022-09-24 19:46:29.892] [13818] (connection.cpp:701):   Camera frame count: 21271, dropped: 1658, slow: 0
+[2022-09-24 19:46:29.892] [13818] (connection.cpp:737): Transport stats for user: 573157518239334420, rtt: 139 [ms], available bitrate: 150000 [bps], outbound estimate: 150000 [bps], remb: 21549 [bps], inbound estimate: 9760000
+[2022-09-24 19:46:29.892] [13818] (connection.cpp:746): Receiver: 965847920110874664, bitrate: 237042 [bps], loss: 0 [%]
+[2022-09-24 19:46:29.892] [13818] (connection.cpp:746): Receiver: 430739353296437258, bitrate: 7417600 [bps], loss: 0 [%]
+[2022-09-24 19:46:29.892] [13818] (connection.cpp:746): Receiver: 778337477643468840, bitrate: 1408120 [bps], loss: 0 [%]
+[2022-09-24 19:46:29.892] [13818] (connection.cpp:746): Receiver: 486203483821834243, bitrate: 972964 [bps], loss: 0 [%]
+[2022-09-24 19:46:29.892] [13818] (connection.cpp:746): Receiver: 410434857508929536, bitrate: 1376408 [bps], loss: 0 [%]
+[2022-09-24 19:46:29.892] [13818] (connection.cpp:746): Receiver: 763007230848139285, bitrate: 4308064 [bps], loss: 0 [%]
+[2022-09-24 19:46:29.892] [13818] (connection.cpp:746): Receiver: 1022174400415539302, bitrate: 7417600 [bps], loss: 0 [%]
+[2022-09-24 19:46:29.892] [13818] (connection.cpp:746): Receiver: 880139914778386512, bitrate: 7808000 [bps], loss: 0 [%]
+[2022-09-24 19:46:29.892] [13818] (connection.cpp:746): Receiver: 695155586823749712, bitrate: 1524480 [bps], loss: 3.5 [%]
+[2022-09-24 19:46:29.892] [13818] (connection.cpp:746): Receiver: 765827783086702593, bitrate: 5318144 [bps], loss: 0 [%]
+[2022-09-24 19:46:29.892] [13818] (connection.cpp:746): Receiver: 1018076525951733820, bitrate: 1420464 [bps], loss: 0 [%]
+[2022-09-24 19:46:29.892] [13818] (connection.cpp:746): Receiver: 569722776034869248, bitrate: 7808000 [bps], loss: 0 [%]
+[2022-09-24 19:46:29.892] [13818] (connection.cpp:759): Memory usage: 516MB, CPU usage:N/A
+[2022-09-24 19:46:29.893] [13818] (rtp_video_stream_receiver2.cc:664): Packet received on SSRC: 344144 with payload type: 101, timestamp: 2848606095, sequence number: 2183, arrival time: 17074079, toffset: 1260, abs send time: 12282397
+[2022-09-24 19:46:29.928] [13818] (rtp_video_stream_receiver2.cc:664): Packet received on SSRC: 356895 with payload type: 101, timestamp: 1916078483, sequence number: 29014, arrival time: 17074115, toffset: 1080, abs send time: 12291863
+[2022-09-24 19:46:29.970] [13818] (rtp_video_stream_receiver2.cc:664): Packet received on SSRC: 357724 with payload type: 101, timestamp: 2684012468, sequence number: 13424, arrival time: 17074157, toffset: 1890, abs send time: 12302824
+[2022-09-24 19:46:30.418] [13818] (receive_statistics_proxy2.cc:538): Bad call (fps) end: 17074605
+[2022-09-24 19:46:30.480] [13818] (connection.cpp:870): Received REMB for ssrcs: 357846: 23364 [bps]
+[2022-09-24 19:46:30.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357846: 12
+[2022-09-24 19:46:30.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357848: 0
+[2022-09-24 19:46:30.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:30.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:30.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:30.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:30.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:30.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:30.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:30.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:30.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:30.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:30.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:30.645] [16196] (send_side_bandwidth_estimation.cc:621): Estimated available bandwidth 23364 bps is below configured min bitrate 150 kbps.
+[2022-09-24 19:46:31.158] [16284] (frame_buffer2.cc:334): The video target delay has grown larger than 10000 ms.
+[2022-09-24 19:46:31.276] [13797] (discord.cpp:543): JS console: ["%c[RTCControlSocket]","Sending heartbeat"]
+[2022-09-24 19:46:31.480] [13818] (connection.cpp:870): Received REMB for ssrcs: 357846: 25324 [bps]
+[2022-09-24 19:46:31.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357846: 12
+[2022-09-24 19:46:31.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357848: 0
+[2022-09-24 19:46:31.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:31.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:31.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:31.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:31.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:31.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:31.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:31.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:31.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:31.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:31.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:31.485] [13797] (discord.cpp:543): JS console: ["%c[RTCControlSocket]","Heartbeat ACK received"]
+[2022-09-24 19:46:31.570] [13819] (device_info_linux.cc:45): NumberOfDevices
+[2022-09-24 19:46:31.570] [13819] (device_info_linux.cc:45): NumberOfDevices
+[2022-09-24 19:46:31.570] [13819] (device_info_linux.cc:78): GetDeviceName
+[2022-09-24 19:46:32.428] [16289] (video_render_frames.cc:71): Frame scheduled out of order, render_time=17076355, latest=17076623
+[2022-09-24 19:46:32.429] [16289] (video_render_frames.cc:71): Frame scheduled out of order, render_time=17076445, latest=17076623
+[2022-09-24 19:46:32.429] [16289] (video_render_frames.cc:71): Frame scheduled out of order, render_time=17076488, latest=17076623
+[2022-09-24 19:46:32.429] [16289] (video_render_frames.cc:71): Frame scheduled out of order, render_time=17076545, latest=17076623
+[2022-09-24 19:46:32.430] [16289] (video_render_frames.cc:71): Frame scheduled out of order, render_time=17076592, latest=17076623
+[2022-09-24 19:46:32.480] [13818] (connection.cpp:870): Received REMB for ssrcs: 357846: 27440 [bps]
+[2022-09-24 19:46:32.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357846: 12
+[2022-09-24 19:46:32.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357848: 0
+[2022-09-24 19:46:32.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:32.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:32.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:32.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:32.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:32.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:32.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:32.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:32.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:32.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:32.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:33.480] [13818] (connection.cpp:870): Received REMB for ssrcs: 357846: 29727 [bps]
+[2022-09-24 19:46:33.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357846: 12
+[2022-09-24 19:46:33.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357848: 0
+[2022-09-24 19:46:33.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:33.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:33.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:33.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:33.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:33.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:33.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:33.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:33.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:33.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:33.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:33.678] [16251] (quality_scaler.cc:316): Checking average QP 24 (24).
+[2022-09-24 19:46:34.014] [16284] (frame_buffer2.cc:334): The video target delay has grown larger than 10000 ms.
+[2022-09-24 19:46:34.267] [16195] (udp_socket.cpp:874): Sending ping to 66.22.239.9:50004, seq: 18
+[2022-09-24 19:46:34.406] [16195] (socket_client.cpp:263): Ping received from 66.22.239.9:50004, seq: 18, rtt: 138
+[2022-09-24 19:46:34.480] [13818] (connection.cpp:870): Received REMB for ssrcs: 357846: 32196 [bps]
+[2022-09-24 19:46:34.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357846: 12
+[2022-09-24 19:46:34.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357848: 0
+[2022-09-24 19:46:34.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:34.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:34.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:34.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:34.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:34.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:34.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:34.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:34.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:34.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:34.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:34.571] [13819] (device_info_linux.cc:45): NumberOfDevices
+[2022-09-24 19:46:34.572] [13819] (device_info_linux.cc:45): NumberOfDevices
+[2022-09-24 19:46:34.572] [13819] (device_info_linux.cc:78): GetDeviceName
+[2022-09-24 19:46:35.480] [13818] (connection.cpp:870): Received REMB for ssrcs: 357846: 34862 [bps]
+[2022-09-24 19:46:35.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357846: 12
+[2022-09-24 19:46:35.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357848: 0
+[2022-09-24 19:46:35.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:35.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:35.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:35.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:35.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:35.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:35.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:35.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:35.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:35.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:35.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:36.480] [13818] (connection.cpp:870): Received REMB for ssrcs: 357846: 37742 [bps]
+[2022-09-24 19:46:36.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357846: 12
+[2022-09-24 19:46:36.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357848: 0
+[2022-09-24 19:46:36.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:36.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:36.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:36.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:36.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:36.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:36.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:36.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:36.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:36.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:36.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:36.656] [16284] (frame_buffer2.cc:334): The video target delay has grown larger than 10000 ms.
+[2022-09-24 19:46:37.480] [13818] (connection.cpp:870): Received REMB for ssrcs: 357846: 40853 [bps]
+[2022-09-24 19:46:37.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357846: 12
+[2022-09-24 19:46:37.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357848: 0
+[2022-09-24 19:46:37.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:37.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:37.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:37.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:37.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:37.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:37.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:37.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:37.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:37.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:37.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:37.574] [13819] (device_info_linux.cc:45): NumberOfDevices
+[2022-09-24 19:46:37.574] [13819] (device_info_linux.cc:45): NumberOfDevices
+[2022-09-24 19:46:37.574] [13819] (device_info_linux.cc:78): GetDeviceName
+[2022-09-24 19:46:37.679] [16251] (quality_scaler.cc:316): Checking average QP 19 (19).
+[2022-09-24 19:46:38.151] [13818] (rtp_video_stream_receiver2.cc:664): Packet received on SSRC: 357851 with payload type: 101, timestamp: 1237574365, sequence number: 17632, arrival time: 17082337, toffset: 1980, abs send time: 14447352
+[2022-09-24 19:46:38.480] [13818] (connection.cpp:870): Received REMB for ssrcs: 357846: 44212 [bps]
+[2022-09-24 19:46:38.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357846: 12
+[2022-09-24 19:46:38.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357848: 0
+[2022-09-24 19:46:38.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:38.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:38.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:38.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:38.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:38.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:38.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:38.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:38.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:38.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:38.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:39.080] [13824] (audio_device_buffer.cc:411): [REC : 10010msec, 48kHz] callbacks: 1000, samples: 480000, rate: 47952, rate diff: 0%, level: 2709
+[2022-09-24 19:46:39.080] [13824] (audio_device_buffer.cc:437): [PLAY: 10010msec, 48kHz] callbacks: 1002, samples: 480960, rate: 48048, rate diff: 0%, level: 0
+[2022-09-24 19:46:39.226] [13826] (captured_audio_processor.cpp:82): Audio frames processed: 79903, noise canceller process time: 0 [ms]
+[2022-09-24 19:46:39.226] [13826] (captured_audio_processor.cpp:93): Audio frame: 79903, samples: 480, channels: 1, rate: 48000 [Hz], bytes: 2, level: 761
+[2022-09-24 19:46:39.267] [16195] (udp_socket.cpp:874): Sending ping to 66.22.239.9:50004, seq: 19
+[2022-09-24 19:46:39.406] [16195] (socket_client.cpp:263): Ping received from 66.22.239.9:50004, seq: 19, rtt: 139
+[2022-09-24 19:46:39.480] [13818] (connection.cpp:870): Received REMB for ssrcs: 357846: 47840 [bps]
+[2022-09-24 19:46:39.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357846: 12
+[2022-09-24 19:46:39.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357848: 0
+[2022-09-24 19:46:39.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:39.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:39.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:39.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:39.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:39.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:39.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:39.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:39.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:39.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:39.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:39.481] [16196] (bitrate_allocator.cc:394): Current BWE 150000
+[2022-09-24 19:46:39.486] [16284] (frame_buffer2.cc:334): The video target delay has grown larger than 10000 ms.
+[2022-09-24 19:46:39.603] [13818] (rtp_video_stream_receiver2.cc:664): Packet received on SSRC: 354608 with payload type: 101, timestamp: 893956479, sequence number: 1159, arrival time: 17083789, toffset: 1170, abs send time: 14827913
+[2022-09-24 19:46:39.742] [13818] (rtp_video_stream_receiver2.cc:664): Packet received on SSRC: 355549 with payload type: 101, timestamp: 4001678716, sequence number: 49963, arrival time: 17083928, toffset: 3330, abs send time: 14864364
+[2022-09-24 19:46:39.756] [13818] (rtp_video_stream_receiver2.cc:664): Packet received on SSRC: 354915 with payload type: 101, timestamp: 4087689811, sequence number: 42575, arrival time: 17083942, toffset: 2700, abs send time: 14868110
+[2022-09-24 19:46:39.794] [13818] (rtp_video_stream_receiver2.cc:664): Packet received on SSRC: 353261 with payload type: 101, timestamp: 731829023, sequence number: 24643, arrival time: 17083981, toffset: 20880, abs send time: 14878071
+[2022-09-24 19:46:39.796] [13818] (rtp_video_stream_receiver2.cc:664): Packet received on SSRC: 344908 with payload type: 101, timestamp: 3421465546, sequence number: 29386, arrival time: 17083982, toffset: 22500, abs send time: 14878462
+[2022-09-24 19:46:39.811] [13818] (rtp_video_stream_receiver2.cc:664): Packet received on SSRC: 350454 with payload type: 101, timestamp: 292388679, sequence number: 29905, arrival time: 17083997, toffset: 1890, abs send time: 14882390
+[2022-09-24 19:46:39.830] [13818] (rtp_video_stream_receiver2.cc:664): Packet received on SSRC: 349591 with payload type: 101, timestamp: 2489599719, sequence number: 13722, arrival time: 17084017, toffset: 140760, abs send time: 14887603
+[2022-09-24 19:46:39.929] [13818] (rtp_video_stream_receiver2.cc:664): Packet received on SSRC: 356895 with payload type: 101, timestamp: 1916978393, sequence number: 29217, arrival time: 17084115, toffset: 1440, abs send time: 14913370
+[2022-09-24 19:46:39.932] [13818] (rtp_video_stream_receiver2.cc:664): Packet received on SSRC: 344144 with payload type: 101, timestamp: 2849511045, sequence number: 2442, arrival time: 17084119, toffset: 1350, abs send time: 14914322
+[2022-09-24 19:46:39.961] [13818] (connection.cpp:615): Inbound stats for user: 410434857508929536, audio ssrc: 349590, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 349591, packets received: 1031, lost: 0, video frames received (key/delta): 7/466, decoded: 468, dropped: 0, resolution: 384 x 216, freeze (count/duration): 3/1225, pause (count/duration): 0/0
+[2022-09-24 19:46:39.961] [13818] (connection.cpp:615): Inbound stats for user: 430739353296437258, audio ssrc: 344907, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 344908, packets received: 1166, lost: 0, video frames received (key/delta): 17/928, decoded: 945, dropped: 0, resolution: 384 x 216, freeze (count/duration): 6/1598, pause (count/duration): 0/0
+[2022-09-24 19:46:39.961] [13818] (connection.cpp:615): Inbound stats for user: 486203483821834243, audio ssrc: 344143, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 344144, packets received: 1313, lost: 1, video frames received (key/delta): 1/743, decoded: 742, dropped: 0, resolution: 640 x 480, freeze (count/duration): 1/581, pause (count/duration): 0/0
+[2022-09-24 19:46:39.961] [13818] (connection.cpp:615): Inbound stats for user: 695155586823749712, audio ssrc: 356894, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 356895, packets received: 1051, lost: 0, video frames received (key/delta): 9/968, decoded: 973, dropped: 0, resolution: 384 x 216, freeze (count/duration): 5/1127, pause (count/duration): 0/0
+[2022-09-24 19:46:39.961] [13818] (connection.cpp:615): Inbound stats for user: 763007230848139285, audio ssrc: 355548, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 355549, packets received: 1112, lost: 0, video frames received (key/delta): 2/995, decoded: 997, dropped: 0, resolution: 384 x 216, freeze (count/duration): 1/244, pause (count/duration): 0/0
+[2022-09-24 19:46:39.961] [13818] (connection.cpp:615): Inbound stats for user: 778337477643468840, audio ssrc: 354914, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 354915, packets received: 1722, lost: 0, video frames received (key/delta): 6/959, decoded: 964, dropped: 0, resolution: 384 x 216, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2022-09-24 19:46:39.961] [13818] (connection.cpp:615): Inbound stats for user: 880139914778386512, audio ssrc: 353260, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 353261, packets received: 1142, lost: 1, video frames received (key/delta): 2/566, decoded: 566, dropped: 0, resolution: 384 x 216, freeze (count/duration): 2/567, pause (count/duration): 0/0
+[2022-09-24 19:46:39.961] [13818] (connection.cpp:615): Inbound stats for user: 965847920110874664, audio ssrc: 350453, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 350454, packets received: 757, lost: 0, video frames received (key/delta): 1/752, decoded: 753, dropped: 0, resolution: 384 x 216, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2022-09-24 19:46:39.961] [13818] (connection.cpp:615): Inbound stats for user: 1018076525951733820, audio ssrc: 357723, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 357724, packets received: 1004, lost: 0, video frames received (key/delta): 1/463, decoded: 464, dropped: 0, resolution: 384 x 216, freeze (count/duration): 2/3186, pause (count/duration): 0/0
+[2022-09-24 19:46:39.961] [13818] (connection.cpp:615): Inbound stats for user: 1022174400415539302, audio ssrc: 354607, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 354608, packets received: 2333, lost: 0, video frames received (key/delta): 6/1298, decoded: 1303, dropped: 0, resolution: 384 x 216, freeze (count/duration): 1/338, pause (count/duration): 0/0
+[2022-09-24 19:46:39.962] [13818] (connection.cpp:615): Inbound stats for user: 569722776034869248, audio ssrc: 357850, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 357851, packets received: 1442, lost: 0, video frames received (key/delta): 9/1217, decoded: 1226, dropped: 0, resolution: 384 x 216, freeze (count/duration): 5/1805, pause (count/duration): 0/0
+[2022-09-24 19:46:39.962] [13818] (connection.cpp:647): Outbound stats for user: 573157518239334420
+[2022-09-24 19:46:39.962] [13818] (connection.cpp:649):   Audio ssrc: 357845, packets sent: 9, packets lost: 0
+[2022-09-24 19:46:39.962] [13818] (connection.cpp:683):   Video codec: H264 (OpenH264), input frame rate: 20 [fps], frames encoded: 1570, encoded frame rate: 20 [fps], target rate: 146416 [bps], actual rate: 151456 [bps], cpu limited: 0, bw limited: 0, substream ssrc: 357846, frames sent (key/delta): 6/1564, packets sent: 2026, packets sent lost: 0, resolution: 384 x 216 
+[2022-09-24 19:46:39.962] [13818] (connection.cpp:683):   Video codec: H264 (unknown), input frame rate: 20 [fps], frames encoded: 0, encoded frame rate: 0 [fps], target rate: 0 [bps], actual rate: 0 [bps], cpu limited: 0, bw limited: 0, substream ssrc: 357848, frames sent (key/delta): 0/0, packets sent: 0, packets sent lost: 0, resolution: 0 x 0 
+[2022-09-24 19:46:39.962] [13818] (connection.cpp:701):   Camera frame count: 21472, dropped: 1699, slow: 0
+[2022-09-24 19:46:39.962] [13818] (connection.cpp:737): Transport stats for user: 573157518239334420, rtt: 139 [ms], available bitrate: 150000 [bps], outbound estimate: 150000 [bps], remb: 47840 [bps], inbound estimate: 9760000
+[2022-09-24 19:46:39.962] [13818] (connection.cpp:746): Receiver: 965847920110874664, bitrate: 526240 [bps], loss: 0 [%]
+[2022-09-24 19:46:39.962] [13818] (connection.cpp:746): Receiver: 430739353296437258, bitrate: 7417600 [bps], loss: 0 [%]
+[2022-09-24 19:46:39.962] [13818] (connection.cpp:746): Receiver: 778337477643468840, bitrate: 7417600 [bps], loss: 0 [%]
+[2022-09-24 19:46:39.962] [13818] (connection.cpp:746): Receiver: 486203483821834243, bitrate: 1071672 [bps], loss: 0 [%]
+[2022-09-24 19:46:39.962] [13818] (connection.cpp:746): Receiver: 410434857508929536, bitrate: 9760000 [bps], loss: 0 [%]
+[2022-09-24 19:46:39.962] [13818] (connection.cpp:746): Receiver: 763007230848139285, bitrate: 4308064 [bps], loss: 0 [%]
+[2022-09-24 19:46:39.962] [13818] (connection.cpp:746): Receiver: 1022174400415539302, bitrate: 7417600 [bps], loss: 0 [%]
+[2022-09-24 19:46:39.962] [13818] (connection.cpp:746): Receiver: 880139914778386512, bitrate: 7808000 [bps], loss: 0 [%]
+[2022-09-24 19:46:39.962] [13818] (connection.cpp:746): Receiver: 695155586823749712, bitrate: 2858960 [bps], loss: 0 [%]
+[2022-09-24 19:46:39.962] [13818] (connection.cpp:746): Receiver: 765827783086702593, bitrate: 8784000 [bps], loss: 0 [%]
+[2022-09-24 19:46:39.962] [13818] (connection.cpp:746): Receiver: 1018076525951733820, bitrate: 1373752 [bps], loss: 0 [%]
+[2022-09-24 19:46:39.962] [13818] (connection.cpp:746): Receiver: 569722776034869248, bitrate: 7808000 [bps], loss: 0 [%]
+[2022-09-24 19:46:39.962] [13818] (connection.cpp:759): Memory usage: 520MB, CPU usage:N/A
+[2022-09-24 19:46:40.103] [13818] (rtp_video_stream_receiver2.cc:664): Packet received on SSRC: 357724 with payload type: 101, timestamp: 3566952518, sequence number: 13601, arrival time: 17084290, toffset: 22950, abs send time: 14959110
+[2022-09-24 19:46:40.480] [13818] (connection.cpp:870): Received REMB for ssrcs: 357846: 51758 [bps]
+[2022-09-24 19:46:40.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357846: 12
+[2022-09-24 19:46:40.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357848: 0
+[2022-09-24 19:46:40.481] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:40.481] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:40.481] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:40.481] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:40.481] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:40.481] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:40.481] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:40.481] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:40.481] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:40.481] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:40.481] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:40.575] [13819] (device_info_linux.cc:45): NumberOfDevices
+[2022-09-24 19:46:40.575] [13819] (device_info_linux.cc:45): NumberOfDevices
+[2022-09-24 19:46:40.575] [13819] (device_info_linux.cc:78): GetDeviceName
+[2022-09-24 19:46:40.648] [16196] (send_side_bandwidth_estimation.cc:621): Estimated available bandwidth 51758 bps is below configured min bitrate 150 kbps.
+[2022-09-24 19:46:41.273] [13818] (receive_statistics_proxy2.cc:530): Bad call (any) start: 17085459
+[2022-09-24 19:46:41.273] [13818] (receive_statistics_proxy2.cc:548): Bad call (variance) start: 17085459
+[2022-09-24 19:46:41.480] [13818] (connection.cpp:870): Received REMB for ssrcs: 357846: 55989 [bps]
+[2022-09-24 19:46:41.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357846: 12
+[2022-09-24 19:46:41.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357848: 0
+[2022-09-24 19:46:41.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:41.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:41.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:41.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:41.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:41.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:41.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:41.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:41.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:41.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:41.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:41.680] [16251] (quality_scaler.cc:316): Checking average QP 22 (22).
+[2022-09-24 19:46:42.160] [16284] (frame_buffer2.cc:334): The video target delay has grown larger than 10000 ms.
+[2022-09-24 19:46:42.480] [13818] (connection.cpp:870): Received REMB for ssrcs: 357846: 60559 [bps]
+[2022-09-24 19:46:42.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357846: 12
+[2022-09-24 19:46:42.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357848: 0
+[2022-09-24 19:46:42.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:42.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:42.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:42.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:42.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:42.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:42.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:42.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:42.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:42.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:42.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:42.669] [15054] (video_adapter.cc:230): VAdapt Drop Frame: scaled 14001 / out 21526 / in 23236 Changes: 4 Input: 1280x720 timestamp: 17086855000000 Output fps: 20/30 alignment: 1
+[2022-09-24 19:46:43.043] [13818] (receive_statistics_proxy2.cc:550): Bad call (variance) end: 17087230
+[2022-09-24 19:46:43.480] [13818] (connection.cpp:870): Received REMB for ssrcs: 357846: 65495 [bps]
+[2022-09-24 19:46:43.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357846: 12
+[2022-09-24 19:46:43.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357848: 0
+[2022-09-24 19:46:43.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:43.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:43.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:43.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:43.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:43.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:43.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:43.481] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:43.481] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:43.481] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:43.481] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:43.578] [13819] (device_info_linux.cc:45): NumberOfDevices
+[2022-09-24 19:46:43.578] [13819] (device_info_linux.cc:45): NumberOfDevices
+[2022-09-24 19:46:43.579] [13819] (device_info_linux.cc:78): GetDeviceName
+[2022-09-24 19:46:44.268] [16195] (udp_socket.cpp:874): Sending ping to 66.22.239.9:50004, seq: 20
+[2022-09-24 19:46:44.407] [16195] (socket_client.cpp:263): Ping received from 66.22.239.9:50004, seq: 20, rtt: 139
+[2022-09-24 19:46:44.480] [13818] (connection.cpp:870): Received REMB for ssrcs: 357846: 70826 [bps]
+[2022-09-24 19:46:44.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357846: 12
+[2022-09-24 19:46:44.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357848: 0
+[2022-09-24 19:46:44.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:44.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:44.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:44.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:44.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:44.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:44.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:44.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:44.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:44.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:44.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:44.835] [16284] (frame_buffer2.cc:334): The video target delay has grown larger than 10000 ms.
+[2022-09-24 19:46:45.026] [13797] (discord.cpp:543): JS console: ["%c[RTCControlSocket]","Sending heartbeat"]
+[2022-09-24 19:46:45.222] [16277] (video_render_frames.cc:71): Frame scheduled out of order, render_time=17089029, latest=17089417
+[2022-09-24 19:46:45.222] [16277] (video_render_frames.cc:71): Frame scheduled out of order, render_time=17089142, latest=17089417
+[2022-09-24 19:46:45.222] [16277] (video_render_frames.cc:71): Frame scheduled out of order, render_time=17089203, latest=17089417
+[2022-09-24 19:46:45.222] [16277] (video_render_frames.cc:71): Frame scheduled out of order, render_time=17089310, latest=17089417
+[2022-09-24 19:46:45.223] [16277] (video_render_frames.cc:71): Frame scheduled out of order, render_time=17089351, latest=17089417
+[2022-09-24 19:46:45.237] [13797] (discord.cpp:543): JS console: ["%c[RTCControlSocket]","Heartbeat ACK received"]
+[2022-09-24 19:46:45.480] [13818] (connection.cpp:870): Received REMB for ssrcs: 357846: 76583 [bps]
+[2022-09-24 19:46:45.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357846: 12
+[2022-09-24 19:46:45.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357848: 0
+[2022-09-24 19:46:45.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:45.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:45.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:45.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:45.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:45.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:45.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:45.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:45.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:45.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:45.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:45.681] [16251] (quality_scaler.cc:316): Checking average QP 23 (23).
+[2022-09-24 19:46:46.480] [13818] (connection.cpp:870): Received REMB for ssrcs: 357846: 82800 [bps]
+[2022-09-24 19:46:46.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357846: 12
+[2022-09-24 19:46:46.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357848: 0
+[2022-09-24 19:46:46.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:46.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:46.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:46.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:46.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:46.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:46.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:46.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:46.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:46.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:46.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:46.581] [13819] (device_info_linux.cc:45): NumberOfDevices
+[2022-09-24 19:46:46.581] [13819] (device_info_linux.cc:45): NumberOfDevices
+[2022-09-24 19:46:46.581] [13819] (device_info_linux.cc:78): GetDeviceName
+[2022-09-24 19:46:47.480] [13818] (connection.cpp:870): Received REMB for ssrcs: 357846: 77302 [bps]
+[2022-09-24 19:46:47.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357846: 12
+[2022-09-24 19:46:47.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357848: 0
+[2022-09-24 19:46:47.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:47.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:47.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:47.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:47.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:47.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:47.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:47.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:47.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:47.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:47.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:47.651] [16284] (frame_buffer2.cc:334): The video target delay has grown larger than 10000 ms.
+[2022-09-24 19:46:48.180] [13818] (rtp_video_stream_receiver2.cc:664): Packet received on SSRC: 357851 with payload type: 101, timestamp: 1238475625, sequence number: 17852, arrival time: 17092366, toffset: 2340, abs send time: 299061
+[2022-09-24 19:46:48.480] [13818] (connection.cpp:870): Received REMB for ssrcs: 357846: 50540 [bps]
+[2022-09-24 19:46:48.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357846: 12
+[2022-09-24 19:46:48.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357848: 0
+[2022-09-24 19:46:48.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:48.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:48.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:48.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:48.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:48.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:48.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:48.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:48.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:48.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:48.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:49.090] [13824] (audio_device_buffer.cc:411): [REC : 10010msec, 48kHz] callbacks: 1003, samples: 481440, rate: 48096, rate diff: 0%, level: 6794
+[2022-09-24 19:46:49.090] [13824] (audio_device_buffer.cc:437): [PLAY: 10010msec, 48kHz] callbacks: 1000, samples: 480000, rate: 47952, rate diff: 0%, level: 0
+[2022-09-24 19:46:49.104] [16197] (rtcp_sender.cc:471): Sender Report {ssrc: 357845, ntp: 3873030409:450357385, rtp_timestamp: 3408358101, last_rtp_timestamp: 4800960, last_frame_capture_time_ms: 17093271, now_us: 17093290857, rtp_rate: 48}
+[2022-09-24 19:46:49.254] [13826] (captured_audio_processor.cpp:82): Audio frames processed: 80906, noise canceller process time: 0 [ms]
+[2022-09-24 19:46:49.254] [13826] (captured_audio_processor.cpp:93): Audio frame: 80906, samples: 480, channels: 1, rate: 48000 [Hz], bytes: 2, level: 551
+[2022-09-24 19:46:49.268] [16195] (udp_socket.cpp:874): Sending ping to 66.22.239.9:50004, seq: 21
+[2022-09-24 19:46:49.407] [16195] (socket_client.cpp:263): Ping received from 66.22.239.9:50004, seq: 21, rtt: 139
+[2022-09-24 19:46:49.480] [13818] (connection.cpp:870): Received REMB for ssrcs: 357846: 51151 [bps]
+[2022-09-24 19:46:49.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357846: 12
+[2022-09-24 19:46:49.480] [13818] (connection.cpp:894): Received receiver count for ssrc: 357848: 0
+[2022-09-24 19:46:49.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:49.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:49.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:49.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:49.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:49.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:49.480] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:49.481] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:49.481] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:49.481] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:49.481] [13818] (connection.cpp:924): Received inbound estimate: 9760000 [bps], loss rate: 0 [%]
+[2022-09-24 19:46:49.584] [13819] (device_info_linux.cc:45): NumberOfDevices
+[2022-09-24 19:46:49.584] [13819] (device_info_linux.cc:45): NumberOfDevices
+[2022-09-24 19:46:49.584] [13819] (device_info_linux.cc:78): GetDeviceName
+[2022-09-24 19:46:49.605] [13818] (rtp_video_stream_receiver2.cc:664): Packet received on SSRC: 354608 with payload type: 101, timestamp: 894856389, sequence number: 1399, arrival time: 17093791, toffset: 1440, abs send time: 672737
+[2022-09-24 19:46:49.682] [16251] (quality_scaler.cc:316): Checking average QP 19 (19).
+[2022-09-24 19:46:49.768] [13818] (rtp_video_stream_receiver2.cc:664): Packet received on SSRC: 355549 with payload type: 101, timestamp: 605963610, sequence number: 50181, arrival time: 17093955, toffset: 6210, abs send time: 715493
+[2022-09-24 19:46:49.777] [13818] (rtp_video_stream_receiver2.cc:664): Packet received on SSRC: 354915 with payload type: 101, timestamp: 4088593411, sequence number: 42923, arrival time: 17093963, toffset: 1620, abs send time: 717846
+[2022-09-24 19:46:49.799] [13818] (rtp_video_stream_receiver2.cc:664): Packet received on SSRC: 353261 with payload type: 101, timestamp: 732743513, sequence number: 24899, arrival time: 17093986, toffset: 6930, abs send time: 723664
+[2022-09-24 19:46:49.828] [13818] (rtp_video_stream_receiver2.cc:664): Packet received on SSRC: 344908 with payload type: 101, timestamp: 3422387056, sequence number: 29619, arrival time: 17094015, toffset: 3960, abs send time: 731272
+[2022-09-24 19:46:49.872] [13818] (rtp_video_stream_receiver2.cc:664): Packet received on SSRC: 350454 with payload type: 101, timestamp: 293294439, sequence number: 30056, arrival time: 17094059, toffset: 1620, abs send time: 742785
+[2022-09-24 19:46:49.878] [13818] (rtp_video_stream_receiver2.cc:664): Packet received on SSRC: 349591 with payload type: 101, timestamp: 2490566319, sequence number: 13940, arrival time: 17094065, toffset: 78210, abs send time: 744424
+[2022-09-24 19:46:49.939] [13818] (rtp_video_stream_receiver2.cc:664): Packet received on SSRC: 356895 with payload type: 101, timestamp: 1917869033, sequence number: 29422, arrival time: 17094125, toffset: 11700, abs send time: 760238
+[2022-09-24 19:46:50.014] [13818] (rtp_video_stream_receiver2.cc:664): Packet received on SSRC: 344144 with payload type: 101, timestamp: 2850419325, sequence number: 2704, arrival time: 17094201, toffset: 1440, abs send time: 779896
+[2022-09-24 19:46:50.029] [13818] (connection.cpp:615): Inbound stats for user: 410434857508929536, audio ssrc: 349590, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 349591, packets received: 1247, lost: 0, video frames received (key/delta): 7/577, decoded: 580, dropped: 0, resolution: 384 x 216, freeze (count/duration): 3/1225, pause (count/duration): 0/0
+[2022-09-24 19:46:50.029] [13818] (connection.cpp:615): Inbound stats for user: 430739353296437258, audio ssrc: 344907, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 344908, packets received: 1398, lost: 0, video frames received (key/delta): 19/1133, decoded: 1150, dropped: 0, resolution: 384 x 216, freeze (count/duration): 6/1598, pause (count/duration): 0/0
+[2022-09-24 19:46:50.029] [13818] (connection.cpp:615): Inbound stats for user: 486203483821834243, audio ssrc: 344143, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 344144, packets received: 1575, lost: 1, video frames received (key/delta): 1/893, decoded: 893, dropped: 0, resolution: 640 x 480, freeze (count/duration): 1/581, pause (count/duration): 0/0
+[2022-09-24 19:46:50.029] [13818] (connection.cpp:615): Inbound stats for user: 695155586823749712, audio ssrc: 356894, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 356895, packets received: 1257, lost: 0, video frames received (key/delta): 10/1166, decoded: 1174, dropped: 0, resolution: 384 x 216, freeze (count/duration): 5/1127, pause (count/duration): 0/0
+[2022-09-24 19:46:50.029] [13818] (connection.cpp:615): Inbound stats for user: 763007230848139285, audio ssrc: 355548, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 355549, packets received: 1331, lost: 0, video frames received (key/delta): 2/1196, decoded: 1197, dropped: 0, resolution: 384 x 216, freeze (count/duration): 1/244, pause (count/duration): 0/0
+[2022-09-24 19:46:50.029] [13818] (connection.cpp:615): Inbound stats for user: 778337477643468840, audio ssrc: 354914, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 354915, packets received: 2074, lost: 0, video frames received (key/delta): 6/1160, decoded: 1165, dropped: 0, resolution: 384 x 216, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2022-09-24 19:46:50.029] [13818] (connection.cpp:615): Inbound stats for user: 880139914778386512, audio ssrc: 353260, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 353261, packets received: 1400, lost: 1, video frames received (key/delta): 2/715, decoded: 712, dropped: 0, resolution: 384 x 216, freeze (count/duration): 2/567, pause (count/duration): 0/0
+[2022-09-24 19:46:50.029] [13818] (connection.cpp:615): Inbound stats for user: 965847920110874664, audio ssrc: 350453, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 350454, packets received: 908, lost: 0, video frames received (key/delta): 1/903, decoded: 904, dropped: 0, resolution: 384 x 216, freeze (count/duration): 0/0, pause (count/duration): 0/0
+[2022-09-24 19:46:50.029] [13818] (connection.cpp:615): Inbound stats for user: 1018076525951733820, audio ssrc: 357723, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 357724, packets received: 1172, lost: 0, video frames received (key/delta): 1/492, decoded: 493, dropped: 0, resolution: 384 x 216, freeze (count/duration): 2/3186, pause (count/duration): 0/0
+[2022-09-24 19:46:50.029] [13818] (connection.cpp:615): Inbound stats for user: 1022174400415539302, audio ssrc: 354607, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 354608, packets received: 2576, lost: 0, video frames received (key/delta): 6/1440, decoded: 1445, dropped: 0, resolution: 384 x 216, freeze (count/duration): 1/338, pause (count/duration): 0/0
+[2022-09-24 19:46:50.030] [13818] (connection.cpp:615): Inbound stats for user: 569722776034869248, audio ssrc: 357850, packets received: 0, lost: 0, audio frames normal: 0, silent: 0, expand: 0, video ssrc: 357851, packets received: 1671, lost: 0, video frames received (key/delta): 9/1418, decoded: 1427, dropped: 0, resolution: 384 x 216, freeze (count/duration): 5/1805, pause (count/duration): 0/0
+[2022-09-24 19:46:50.030] [13818] (connection.cpp:647): Outbound stats for user: 573157518239334420
+[2022-09-24 19:46:50.030] [13818] (connection.cpp:649):   Audio ssrc: 357845, packets sent: 9, packets lost: 0
+[2022-09-24 19:46:50.030] [13818] (connection.cpp:683):   Video codec: H264 (OpenH264), input frame rate: 20 [fps], frames encoded: 1771, encoded frame rate: 20 [fps], target rate: 146416 [bps], actual rate: 142360 [bps], cpu limited: 0, bw limited: 0, substream ssrc: 357846, frames sent (key/delta): 6/1765, packets sent: 2235, packets sent lost: 0, resolution: 384 x 216 
+[2022-09-24 19:46:50.030] [13818] (connection.cpp:683):   Video codec: H264 (unknown), input frame rate: 20 [fps], frames encoded: 0, encoded frame rate: 0 [fps], target rate: 0 [bps], actual rate: 0 [bps], cpu limited: 0, bw limited: 0, substream ssrc: 357848, frames sent (key/delta): 0/0, packets sent: 0, packets sent lost: 0, resolution: 0 x 0 
+[2022-09-24 19:46:50.030] [13818] (connection.cpp:701):   Camera frame count: 21673, dropped: 1739, slow: 0
+[2022-09-24 19:46:50.030] [13818] (connection.cpp:737): Transport stats for user: 573157518239334420, rtt: 139 [ms], available bitrate: 150000 [bps], outbound estimate: 150000 [bps], remb: 51151 [bps], inbound estimate: 9760000
+[2022-09-24 19:46:50.030] [13818] (connection.cpp:746): Receiver: 965847920110874664, bitrate: 562660 [bps], loss: 13 [%]
+[2022-09-24 19:46:50.030] [13818] (connection.cpp:746): Receiver: 430739353296437258, bitrate: 7417600 [bps], loss: 0 [%]
+[2022-09-24 19:46:50.030] [13818] (connection.cpp:746): Receiver: 778337477643468840, bitrate: 6181312 [bps], loss: 0 [%]
+[2022-09-24 19:46:50.030] [13818] (connection.cpp:746): Receiver: 486203483821834243, bitrate: 1511096 [bps], loss: 0 [%]
+[2022-09-24 19:46:50.030] [13818] (connection.cpp:746): Receiver: 410434857508929536, bitrate: 9760000 [bps], loss: 0 [%]
+[2022-09-24 19:46:50.030] [13818] (connection.cpp:746): Receiver: 763007230848139285, bitrate: 4308064 [bps], loss: 0 [%]
+[2022-09-24 19:46:50.030] [13818] (connection.cpp:746): Receiver: 1022174400415539302, bitrate: 7417600 [bps], loss: 0 [%]
+[2022-09-24 19:46:50.030] [13818] (connection.cpp:746): Receiver: 880139914778386512, bitrate: 7808000 [bps], loss: 0 [%]
+[2022-09-24 19:46:50.030] [13818] (connection.cpp:746): Receiver: 695155586823749712, bitrate: 2559072 [bps], loss: 0 [%]
+[2022-09-24 19:46:50.030] [13818] (connection.cpp:746): Receiver: 765827783086702593, bitrate: 8784000 [bps], loss: 0 [%]
+[2022-09-24 19:46:50.030] [13818] (connection.cpp:746): Receiver: 1018076525951733820, bitrate: 851032 [bps], loss: 0 [%]
+[2022-09-24 19:46:50.030] [13818] (connection.cpp:746): Receiver: 569722776034869248, bitrate: 7808000 [bps], loss: 0 [%]
+[2022-09-24 19:46:50.030] [13818] (connection.cpp:759): Memory usage: 517MB, CPU usage:N/A
+[2022-09-24 19:46:50.139] [13818] (rtp_video_stream_receiver2.cc:664): Packet received on SSRC: 357724 with payload type: 101, timestamp: 177449302, sequence number: 13769, arrival time: 17094325, toffset: 6210, abs send time: 812620

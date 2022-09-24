@@ -1,0 +1,24 @@
+2022/09/24-15:03:13.669 d13 Reusing MANIFEST /home/woshyy/.config/google-chrome/Default/Local Extension Settings/bihmplhobchoageeokmgbdihknkjbknd/MANIFEST-000001
+2022/09/24-15:03:13.669 d13 Recovering log #72
+2022/09/24-15:03:13.675 d13 Reusing old log /home/woshyy/.config/google-chrome/Default/Local Extension Settings/bihmplhobchoageeokmgbdihknkjbknd/000072.log 
+2022/09/24-16:55:44.174 1673 Level-0 table #76: started
+2022/09/24-16:55:44.179 1673 Level-0 table #76: 410860 bytes OK
+2022/09/24-16:55:44.181 1673 Delete type=0 #72
+2022/09/24-17:42:14.174 1d08 Level-0 table #78: started
+2022/09/24-17:42:14.178 1d08 Level-0 table #78: 403809 bytes OK
+2022/09/24-17:42:14.180 1d08 Delete type=0 #75
+2022/09/24-17:42:14.181 1d08 Compacting 4@0 + 1@1 files
+2022/09/24-17:42:14.186 1d08 Generated table #79@0: 6 keys, 28240 bytes
+2022/09/24-17:42:14.186 1d08 Compacted 4@0 + 1@1 files => 28240 bytes
+2022/09/24-17:42:14.188 1d08 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/09/24-17:42:14.188 1d08 Delete type=2 #76
+2022/09/24-17:42:14.188 1d08 Delete type=2 #78
+2022/09/24-17:42:14.188 1d08 Delete type=2 #73
+2022/09/24-17:42:14.188 1d08 Delete type=2 #69
+2022/09/24-17:42:14.188 1d08 Delete type=2 #71
+2022/09/24-19:08:40.761 3577 Level-0 table #81: started
+2022/09/24-19:08:40.767 3577 Level-0 table #81: 401300 bytes OK
+2022/09/24-19:08:40.770 3577 Delete type=0 #77
+2022/09/24-19:36:36.263 3cec Level-0 table #83: started
+2022/09/24-19:36:36.267 3cec Level-0 table #83: 411192 bytes OK
+2022/09/24-19:36:36.269 3cec Delete type=0 #80

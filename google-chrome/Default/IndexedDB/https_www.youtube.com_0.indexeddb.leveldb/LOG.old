@@ -1,0 +1,39 @@
+2022/09/23-16:45:46.485 32bf Reusing MANIFEST /home/woshyy/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/23-16:45:46.485 32bf Recovering log #530
+2022/09/23-16:45:46.490 32bf Reusing old log /home/woshyy/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000530.log 
+2022/09/23-16:56:37.796 3410 Level-0 table #535: started
+2022/09/23-16:56:37.807 3410 Level-0 table #535: 1186030 bytes OK
+2022/09/23-16:56:37.810 3410 Delete type=0 #530
+2022/09/23-17:08:38.758 354b Compacting 1@1 + 1@2 files
+2022/09/23-17:08:38.767 354b Generated table #536@1: 766 keys, 44441 bytes
+2022/09/23-17:08:38.767 354b Compacted 1@1 + 1@2 files => 44441 bytes
+2022/09/23-17:08:38.769 354b compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/09/23-17:08:38.769 354b Delete type=2 #535
+2022/09/23-17:08:38.769 354b Delete type=2 #532
+2022/09/23-17:27:08.690 36d0 Level-0 table #538: started
+2022/09/23-17:27:08.706 36d0 Level-0 table #538: 1036873 bytes OK
+2022/09/23-17:27:08.708 36d0 Delete type=0 #534
+2022/09/23-17:27:16.531 36d1 Compacting 1@1 + 1@2 files
+2022/09/23-17:27:16.536 36d1 Generated table #539@1: 878 keys, 58602 bytes
+2022/09/23-17:27:16.536 36d1 Compacted 1@1 + 1@2 files => 58602 bytes
+2022/09/23-17:27:16.539 36d1 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/09/23-17:27:16.539 36d1 Delete type=2 #536
+2022/09/23-17:27:16.539 36d1 Delete type=2 #538
+2022/09/23-17:48:05.422 37d9 Level-0 table #541: started
+2022/09/23-17:48:05.432 37d9 Level-0 table #541: 979608 bytes OK
+2022/09/23-17:48:05.439 37d9 Delete type=0 #537
+2022/09/23-17:48:14.626 3852 Compacting 1@1 + 1@2 files
+2022/09/23-17:48:14.630 3852 Generated table #542@1: 950 keys, 59588 bytes
+2022/09/23-17:48:14.630 3852 Compacted 1@1 + 1@2 files => 59588 bytes
+2022/09/23-17:48:14.631 3852 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/09/23-17:53:07.788 382f Level-0 table #544: started
+2022/09/23-17:53:07.798 382f Level-0 table #544: 930386 bytes OK
+2022/09/23-17:53:07.800 382f Delete type=0 #540
+2022/09/23-17:53:07.800 382f Delete type=2 #541
+2022/09/23-17:53:07.800 382f Delete type=2 #539
+2022/09/23-17:54:33.457 382f Compacting 1@1 + 1@2 files
+2022/09/23-17:54:33.461 382f Generated table #545@1: 1010 keys, 60215 bytes
+2022/09/23-17:54:33.461 382f Compacted 1@1 + 1@2 files => 60215 bytes
+2022/09/23-17:54:33.463 382f compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/09/23-17:54:33.463 382f Delete type=2 #544
+2022/09/23-17:54:33.463 382f Delete type=2 #542

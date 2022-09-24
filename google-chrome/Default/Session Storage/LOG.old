@@ -1,0 +1,48 @@
+2022/09/23-08:38:26.546 3 Reusing MANIFEST /home/woshyy/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2022/09/23-08:38:26.546 3 Recovering log #107
+2022/09/23-08:38:26.548 3 Reusing old log /home/woshyy/.config/google-chrome/Default/Session Storage/000107.log 
+2022/09/23-10:55:43.367 41 Level-0 table #111: started
+2022/09/23-10:55:43.371 41 Level-0 table #111: 16886 bytes OK
+2022/09/23-10:55:43.373 41 Delete type=0 #107
+2022/09/23-11:44:16.288 5f Level-0 table #113: started
+2022/09/23-11:44:16.292 5f Level-0 table #113: 44117 bytes OK
+2022/09/23-11:44:16.294 5f Delete type=0 #110
+2022/09/23-11:45:08.145 5f Level-0 table #115: started
+2022/09/23-11:45:08.147 5f Level-0 table #115: 46973 bytes OK
+2022/09/23-11:45:08.150 5f Delete type=0 #112
+2022/09/23-11:45:08.150 5f Compacting 4@0 + 1@1 files
+2022/09/23-11:45:08.156 5f Generated table #116@0: 3663 keys, 174249 bytes
+2022/09/23-11:45:08.156 5f Compacted 4@0 + 1@1 files => 174249 bytes
+2022/09/23-11:45:08.157 5f compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/09/23-11:45:08.158 5f Delete type=2 #108
+2022/09/23-11:45:08.158 5f Delete type=2 #111
+2022/09/23-11:45:08.158 5f Delete type=2 #106
+2022/09/23-11:45:08.158 5f Delete type=2 #115
+2022/09/23-11:45:08.158 5f Delete type=2 #113
+2022/09/23-11:45:59.379 63 Level-0 table #118: started
+2022/09/23-11:45:59.381 63 Level-0 table #118: 25383 bytes OK
+2022/09/23-11:45:59.384 63 Delete type=0 #114
+2022/09/23-15:29:45.472 84 Level-0 table #120: started
+2022/09/23-15:29:45.476 84 Level-0 table #120: 73012 bytes OK
+2022/09/23-15:29:45.515 84 Delete type=0 #117
+2022/09/23-15:39:06.503 89 Level-0 table #122: started
+2022/09/23-15:39:06.505 89 Level-0 table #122: 42861 bytes OK
+2022/09/23-15:39:06.507 89 Delete type=0 #119
+2022/09/23-16:27:08.312 99 Level-0 table #124: started
+2022/09/23-16:27:08.315 99 Level-0 table #124: 41418 bytes OK
+2022/09/23-16:27:08.318 99 Delete type=0 #121
+2022/09/23-16:27:08.319 99 Compacting 4@0 + 1@1 files
+2022/09/23-16:27:08.326 99 Generated table #125@0: 3839 keys, 312721 bytes
+2022/09/23-16:27:08.326 99 Compacted 4@0 + 1@1 files => 312721 bytes
+2022/09/23-16:27:08.327 99 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/09/23-16:27:08.328 99 Delete type=2 #124
+2022/09/23-16:27:08.328 99 Delete type=2 #116
+2022/09/23-16:27:08.328 99 Delete type=2 #122
+2022/09/23-16:27:08.328 99 Delete type=2 #120
+2022/09/23-16:27:08.328 99 Delete type=2 #118
+2022/09/23-16:31:52.678 92 Level-0 table #127: started
+2022/09/23-16:31:52.682 92 Level-0 table #127: 31919 bytes OK
+2022/09/23-16:31:52.685 92 Delete type=0 #123
+2022/09/23-16:38:16.488 92 Level-0 table #129: started
+2022/09/23-16:38:16.491 92 Level-0 table #129: 61187 bytes OK
+2022/09/23-16:38:16.494 92 Delete type=0 #126

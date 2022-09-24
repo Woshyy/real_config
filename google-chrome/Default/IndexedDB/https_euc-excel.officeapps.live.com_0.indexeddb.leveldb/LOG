@@ -1,0 +1,7 @@
+2022/09/22-08:22:31.979 bd7 Reusing MANIFEST /home/woshyy/.config/google-chrome/Default/IndexedDB/https_euc-excel.officeapps.live.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/22-08:22:31.980 bd7 Recovering log #3
+2022/09/22-08:22:31.980 bd7 Reusing old log /home/woshyy/.config/google-chrome/Default/IndexedDB/https_euc-excel.officeapps.live.com_0.indexeddb.leveldb/000003.log 
+2022/09/22-10:22:42.849 162e Level-0 table #5: started
+2022/09/22-10:22:42.851 162e Level-0 table #5: 4138 bytes OK
+2022/09/22-10:22:42.852 162e Delete type=0 #3
+2022/09/22-10:22:42.852 162e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

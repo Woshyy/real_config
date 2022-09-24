@@ -1,0 +1,9 @@
+2022/09/24-19:07:39.149 35a3 Reusing MANIFEST /home/woshyy/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/09/24-19:07:39.149 35a3 Recovering log #58
+2022/09/24-19:07:39.150 35a3 Reusing old log /home/woshyy/.config/discord/Local Storage/leveldb/000058.log 
+2022/09/24-19:09:52.360 3641 Level-0 table #62: started
+2022/09/24-19:09:52.370 3641 Level-0 table #62: 1121091 bytes OK
+2022/09/24-19:09:52.371 3641 Delete type=0 #58
+2022/09/24-19:45:34.130 3641 Level-0 table #64: started
+2022/09/24-19:45:34.139 3641 Level-0 table #64: 1125140 bytes OK
+2022/09/24-19:45:34.141 3641 Delete type=0 #61

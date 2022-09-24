@@ -1,0 +1,27 @@
+2022/09/23-08:38:26.372 2b5 Reusing MANIFEST /home/woshyy/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2022/09/23-08:38:26.384 2b5 Recovering log #93
+2022/09/23-08:38:26.386 2b5 Reusing old log /home/woshyy/.config/google-chrome/Default/Sync Data/LevelDB/000093.log 
+2022/09/23-10:28:52.204 151f Level-0 table #97: started
+2022/09/23-10:28:52.207 151f Level-0 table #97: 104459 bytes OK
+2022/09/23-10:28:52.213 151f Delete type=0 #93
+2022/09/23-11:44:04.849 1b7c Level-0 table #99: started
+2022/09/23-11:44:04.852 1b7c Level-0 table #99: 99852 bytes OK
+2022/09/23-11:44:04.855 1b7c Delete type=0 #96
+2022/09/23-11:44:04.855 1b7c Compacting 4@0 + 1@1 files
+2022/09/23-11:44:04.858 1b7c Generated table #100@0: 169 keys, 42129 bytes
+2022/09/23-11:44:04.858 1b7c Compacted 4@0 + 1@1 files => 42129 bytes
+2022/09/23-11:44:04.860 1b7c compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/09/23-11:44:04.860 1b7c Delete type=2 #92
+2022/09/23-11:44:04.860 1b7c Delete type=2 #99
+2022/09/23-11:44:04.860 1b7c Delete type=2 #94
+2022/09/23-11:44:04.860 1b7c Delete type=2 #90
+2022/09/23-11:44:04.860 1b7c Delete type=2 #97
+2022/09/23-16:20:44.239 2cb6 Level-0 table #102: started
+2022/09/23-16:20:44.242 2cb6 Level-0 table #102: 113823 bytes OK
+2022/09/23-16:20:44.244 2cb6 Delete type=0 #98
+2022/09/23-16:33:00.818 2f29 Level-0 table #104: started
+2022/09/23-16:33:00.823 2f29 Level-0 table #104: 116854 bytes OK
+2022/09/23-16:33:00.825 2f29 Delete type=0 #101
+2022/09/23-17:18:21.283 35ce Level-0 table #106: started
+2022/09/23-17:18:21.286 35ce Level-0 table #106: 115317 bytes OK
+2022/09/23-17:18:21.288 35ce Delete type=0 #103

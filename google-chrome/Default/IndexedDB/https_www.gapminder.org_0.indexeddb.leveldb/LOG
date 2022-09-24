@@ -1,0 +1,6 @@
+2022/09/22-15:52:45.380 3fd0 Creating DB /home/woshyy/.config/google-chrome/Default/IndexedDB/https_www.gapminder.org_0.indexeddb.leveldb since it was missing.
+2022/09/22-15:52:45.384 3fd0 Reusing MANIFEST /home/woshyy/.config/google-chrome/Default/IndexedDB/https_www.gapminder.org_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/22-15:54:36.676 40c2 Level-0 table #5: started
+2022/09/22-15:54:36.678 40c2 Level-0 table #5: 1264 bytes OK
+2022/09/22-15:54:36.680 40c2 Delete type=0 #3
+2022/09/22-15:54:36.680 40c2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

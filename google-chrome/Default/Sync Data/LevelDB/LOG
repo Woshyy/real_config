@@ -1,0 +1,36 @@
+2022/09/24-15:03:12.848 cec Reusing MANIFEST /home/woshyy/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2022/09/24-15:03:12.858 cec Recovering log #105
+2022/09/24-15:03:12.861 cec Reusing old log /home/woshyy/.config/google-chrome/Default/Sync Data/LevelDB/000105.log 
+2022/09/24-16:43:26.134 1524 Level-0 table #109: started
+2022/09/24-16:43:26.137 1524 Level-0 table #109: 109697 bytes OK
+2022/09/24-16:43:26.139 1524 Delete type=0 #105
+2022/09/24-16:43:26.139 1524 Compacting 4@0 + 1@1 files
+2022/09/24-16:43:26.145 1524 Generated table #110@0: 175 keys, 41640 bytes
+2022/09/24-16:43:26.145 1524 Compacted 4@0 + 1@1 files => 41640 bytes
+2022/09/24-16:43:26.147 1524 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/09/24-16:43:26.147 1524 Delete type=2 #102
+2022/09/24-16:43:26.147 1524 Delete type=2 #100
+2022/09/24-16:43:26.147 1524 Delete type=2 #106
+2022/09/24-16:43:26.147 1524 Delete type=2 #109
+2022/09/24-16:43:26.147 1524 Delete type=2 #104
+2022/09/24-17:43:38.369 1caf Level-0 table #112: started
+2022/09/24-17:43:38.372 1caf Level-0 table #112: 103642 bytes OK
+2022/09/24-17:43:38.375 1caf Delete type=0 #108
+2022/09/24-18:27:25.898 2005 Level-0 table #114: started
+2022/09/24-18:27:25.901 2005 Level-0 table #114: 101322 bytes OK
+2022/09/24-18:27:25.903 2005 Delete type=0 #111
+2022/09/24-19:19:28.900 3507 Level-0 table #116: started
+2022/09/24-19:19:28.909 3507 Level-0 table #116: 102281 bytes OK
+2022/09/24-19:19:28.911 3507 Delete type=0 #113
+2022/09/24-19:42:03.563 3ebf Level-0 table #118: started
+2022/09/24-19:42:03.566 3ebf Level-0 table #118: 114330 bytes OK
+2022/09/24-19:42:03.569 3ebf Delete type=0 #115
+2022/09/24-19:42:03.570 3ebf Compacting 4@0 + 1@1 files
+2022/09/24-19:42:03.573 3ebf Generated table #119@0: 175 keys, 37345 bytes
+2022/09/24-19:42:03.573 3ebf Compacted 4@0 + 1@1 files => 37345 bytes
+2022/09/24-19:42:03.575 3ebf compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/09/24-19:42:03.576 3ebf Delete type=2 #112
+2022/09/24-19:42:03.576 3ebf Delete type=2 #110
+2022/09/24-19:42:03.576 3ebf Delete type=2 #116
+2022/09/24-19:42:03.576 3ebf Delete type=2 #118
+2022/09/24-19:42:03.576 3ebf Delete type=2 #114

@@ -1,0 +1,39 @@
+2022/09/24-15:03:13.028 3 Reusing MANIFEST /home/woshyy/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2022/09/24-15:03:13.037 3 Recovering log #128
+2022/09/24-15:03:13.041 3 Reusing old log /home/woshyy/.config/google-chrome/Default/Session Storage/000128.log 
+2022/09/24-15:03:13.578 5 Level-0 table #132: started
+2022/09/24-15:03:13.585 5 Level-0 table #132: 37727 bytes OK
+2022/09/24-15:03:13.594 5 Delete type=0 #128
+2022/09/24-17:42:08.322 6e Level-0 table #134: started
+2022/09/24-17:42:08.343 6e Level-0 table #134: 460263 bytes OK
+2022/09/24-17:42:08.345 6e Delete type=0 #131
+2022/09/24-17:42:08.346 6e Compacting 4@0 + 1@1 files
+2022/09/24-17:42:08.356 6e Generated table #135@0: 3986 keys, 548041 bytes
+2022/09/24-17:42:08.356 6e Compacted 4@0 + 1@1 files => 548041 bytes
+2022/09/24-17:42:08.358 6e compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/09/24-17:42:08.358 6e Delete type=2 #127
+2022/09/24-17:42:08.358 6e Delete type=2 #132
+2022/09/24-17:42:08.358 6e Delete type=2 #134
+2022/09/24-17:42:08.358 6e Delete type=2 #129
+2022/09/24-17:42:08.358 6e Delete type=2 #125
+2022/09/24-17:47:08.330 6e Level-0 table #137: started
+2022/09/24-17:47:08.333 6e Level-0 table #137: 37166 bytes OK
+2022/09/24-17:47:08.336 6e Delete type=0 #133
+2022/09/24-17:48:36.265 6e Level-0 table #139: started
+2022/09/24-17:48:36.267 6e Level-0 table #139: 31993 bytes OK
+2022/09/24-17:48:36.269 6e Delete type=0 #136
+2022/09/24-17:48:49.855 73 Level-0 table #141: started
+2022/09/24-17:48:49.857 73 Level-0 table #141: 29662 bytes OK
+2022/09/24-17:48:49.859 73 Delete type=0 #138
+2022/09/24-19:07:08.314 aa Level-0 table #143: started
+2022/09/24-19:07:08.317 aa Level-0 table #143: 64407 bytes OK
+2022/09/24-19:07:08.319 aa Delete type=0 #140
+2022/09/24-19:07:08.320 a7 Compacting 4@0 + 1@1 files
+2022/09/24-19:07:08.332 a7 Generated table #144@0: 4040 keys, 583825 bytes
+2022/09/24-19:07:08.332 a7 Compacted 4@0 + 1@1 files => 583825 bytes
+2022/09/24-19:07:08.333 a7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/09/24-19:07:08.337 a7 Delete type=2 #143
+2022/09/24-19:07:08.337 a7 Delete type=2 #135
+2022/09/24-19:07:08.338 a7 Delete type=2 #141
+2022/09/24-19:07:08.338 a7 Delete type=2 #137
+2022/09/24-19:07:08.338 a7 Delete type=2 #139

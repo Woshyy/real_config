@@ -1,0 +1,6 @@
+2022/09/24-17:04:22.582 184a Creating DB /home/woshyy/.config/google-chrome/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb since it was missing.
+2022/09/24-17:04:22.586 184a Reusing MANIFEST /home/woshyy/.config/google-chrome/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/24-18:45:11.390 211d Level-0 table #5: started
+2022/09/24-18:45:11.392 211d Level-0 table #5: 3906 bytes OK
+2022/09/24-18:45:11.393 211d Delete type=0 #3
+2022/09/24-18:45:11.393 211d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,13 @@
+2022/09/23-11:44:08.714 1b7e Reusing MANIFEST /home/woshyy/.config/google-chrome/Default/IndexedDB/https_liuonline.sharepoint.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/23-11:44:08.714 1b7e Recovering log #50
+2022/09/23-11:44:08.715 1b7e Reusing old log /home/woshyy/.config/google-chrome/Default/IndexedDB/https_liuonline.sharepoint.com_0.indexeddb.leveldb/000050.log 
+2022/09/23-11:44:10.364 1b7a Level-0 table #55: started
+2022/09/23-11:44:10.366 1b7a Level-0 table #55: 108305 bytes OK
+2022/09/23-11:44:10.368 1b7a Delete type=0 #50
+2022/09/23-11:44:10.368 1b7a Manual compaction at level-0 from '\x00\x13\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x14\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/09/23-11:44:14.983 1a81 Compacting 1@1 + 1@2 files
+2022/09/23-11:44:14.992 1a81 Generated table #56@1: 3044 keys, 591678 bytes
+2022/09/23-11:44:14.992 1a81 Compacted 1@1 + 1@2 files => 591678 bytes
+2022/09/23-11:44:14.993 1a81 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/09/23-11:44:14.993 1a81 Delete type=2 #52
+2022/09/23-11:44:14.993 1a81 Delete type=2 #55
